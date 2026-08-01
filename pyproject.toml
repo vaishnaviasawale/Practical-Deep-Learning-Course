@@ -1,0 +1,11 @@
+[project]
+name = "practical-deep-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.2",
+    "notebook>=7.6.1",
+]
